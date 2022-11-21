@@ -1,12 +1,11 @@
 ### Hi there 👋
-
 <!--
 **Furkan-png/Furkan-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Furkan-png&show_icons=true">
 
 # Merhaba, ben Mustafa Furkan Demirbilek! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Furkan-png" alt="Furkan-png" /> </p>
 
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-furkan-demirbilek-a56302201/)
-[![Mail Badge](https://img.shields.io/badge/furkandbilek@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkandbilek@gmail.com)](mailto:furkandbilek@gmail.com)
+🔭 I’m currently working on Data Science <br />
+<br />
+🌱 I’m currently learning Deep Learning <br />
+<br />
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mustafa-furkan-demirbilek-a56302201/)
